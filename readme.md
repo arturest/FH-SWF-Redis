@@ -8,7 +8,11 @@ Running Docker Desktop lets you use Docker commands. It also helps you manage im
 Search for the official Redis image on Docker Desktop and pull it.
 ![grafik](https://github.com/arturest/FH-SWF-Redis/assets/161933716/503a5d4a-595b-4bda-bb32-9843039aeb85)
 
-when completed you can go to Containers and start it. In the tab "Exec" type in redis-cli.
+when completed you can go to Containers and start it. In the "Exec" tab: type in redis-cli.
 ![grafik](https://github.com/arturest/FH-SWF-Redis/assets/161933716/f9226f7b-0ae3-4d57-ad33-e2dc43bc381e)
+
+TASK:
+You have a Messaging-App and want to cache the 5 most recent messages from a user.
+How do you solve this?
 
 
